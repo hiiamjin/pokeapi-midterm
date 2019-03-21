@@ -1,0 +1,14 @@
+- pokeapi
+- SEARCHING - https://pokeapi.co/api/v2/pokemon/
+- DATA FETCH -https://pokeapi.co/api/v2/pokemon/{id or name}/
+- NO KEY REQUIRED
+
+- OPENDOTA API
+- SEARCHING - https://api.opendota.com/api/heroes
+- DATA FETCH - https://api.opendota.com/api/heroes/{hero_id}
+- NO KEY REQUIRED
+
+- ANIME NEWS NETWORK
+- SEARCHING - https://cdn.animenewsnetwork.com/encyclopedia/api.xml?
+- DATA FETCH - https://cdn.animenewsnetwork.com/encyclopedia/api.xml?anime=id
+- NO KEY REQUIRED
